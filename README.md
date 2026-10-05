@@ -51,6 +51,3 @@ This project delivers a comprehensive sales performance and profitability analys
 - **Data Analytics**: Data Cleaning, KPI Calculation, Trend Analysis
 
 ---
-cd superstore-sales-analytics
-pip install -r requirements.txt
-streamlit run app.py
